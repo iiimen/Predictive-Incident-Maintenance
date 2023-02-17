@@ -2,10 +2,10 @@
 This project uses deep learning to predict equipment failures in a manufacturing plant based on sensor data.
 
 ## <b>Table of Contents</b>
-<h3>&#x2022; Introduction<br>
-<h3>&#x2022; Dataset<br>
-<h3>&#x2022; Methods<br>
-<h3>&#x2022; Concluion
+1. Introduction<br>
+2. Dataset<br>
+3. Methods<br>
+4. Concluion
 
 
 ## <b>1. Introduction </b>
